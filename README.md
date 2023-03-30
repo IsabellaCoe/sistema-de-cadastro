@@ -7,3 +7,4 @@ node app.js
 ```
 no more adds
 teste pelo vscode
+testando a atualizaçao do status
