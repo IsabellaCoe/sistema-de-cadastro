@@ -6,5 +6,9 @@ Para rodar esse projeto em sua máquina, por favor digite:
 node app.js
 ```
 no more adds
-teste pelo vscode
-testando a atualizaçao do status
+<br>
+Teste pelo vscode
+<br>
+Testando a atualizaçao do status
+<br>
+Fazendo alterações pelo Sublime 02/04
