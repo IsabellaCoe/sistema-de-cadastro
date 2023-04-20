@@ -5,9 +5,10 @@ Para rodar esse projeto em sua máquina, por favor digite:
 ```
 node app.js
 ```
-Aqui você encontrará a lsita mais recente de alunos de Pilates com os seguintes dados:
+Aqui você encontrará a lista mais recente de alunos de Pilates com os seguintes dados:
 ```
 Nome dos alunos
-Frequencia de aulas
+Frequência de aulas
 Valores pagos
 ```
+Os dados serão atualizados mensalmente para controle
